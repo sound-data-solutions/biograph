@@ -1,0 +1,42 @@
+{
+    "name": "Abraham Lincoln",
+    "birthday": "1809-02-12T00:00:00.000Z",
+    "death_date": "1865-04-15T00:00:00.000Z",
+    "life_phases": [
+      {
+        "start_date": "1809-02-12T00:00:00.000Z",
+        "end_date": "1831-03-01T00:00:00.000Z",
+        "activity": "Childhood and early adulthood"
+      },
+      {
+        "start_date": "1831-03-02T00:00:00.000Z",
+        "end_date": "1837-01-01T00:00:00.000Z",
+        "activity": "Early legal and political career"
+      },
+      {
+        "start_date": "1837-01-02T00:00:00.000Z",
+        "end_date": "1860-11-06T00:00:00.000Z",
+        "activity": "Legal and congressional career"
+      },
+      {
+        "start_date": "1860-11-07T00:00:00.000Z",
+        "end_date": "1865-04-15T00:00:00.000Z",
+        "activity": "Presidency and Civil War leadership"
+      }
+    ],
+    "milestones": [
+      {
+        "date": "1860-11-06T00:00:00.000Z",
+        "event": "Elected President of the United States"
+      },
+      {
+        "date": "1863-01-01T00:00:00.000Z",
+        "event": "Issued the Emancipation Proclamation"
+      },
+      {
+        "date": "1865-04-15T00:00:00.000Z",
+        "event": "Assassinated by John Wilkes Booth"
+      }
+    ]
+  }
+  

@@ -1,0 +1,46 @@
+{
+    "name": "Elon Musk",
+    "birthday": "1971-06-28T00:00:00.000Z",
+    "death_date": null,
+    "life_phases": [
+      {
+        "start_date": "1971-06-28T00:00:00.000Z",
+        "end_date": "1988-06-28T00:00:00.000Z",
+        "activity": "Childhood and early education"
+      },
+      {
+        "start_date": "1988-06-29T00:00:00.000Z",
+        "end_date": "1995-05-01T00:00:00.000Z",
+        "activity": "College education"
+      },
+      {
+        "start_date": "1995-05-02T00:00:00.000Z",
+        "end_date": "2001-12-31T00:00:00.000Z",
+        "activity": "Zip2 and early entrepreneurship"
+      },
+      {
+        "start_date": "2002-01-01T00:00:00.000Z",
+        "end_date": null,
+        "activity": "SpaceX, Tesla, and other ventures"
+      }
+    ],
+    "milestones": [
+      {
+        "date": "1995-08-01T00:00:00.000Z",
+        "event": "Founded Zip2"
+      },
+      {
+        "date": "2002-06-06T00:00:00.000Z",
+        "event": "Founded SpaceX"
+      },
+      {
+        "date": "2004-02-01T00:00:00.000Z",
+        "event": "Joined Tesla as chairman"
+      },
+      {
+        "date": "2022-10-27T00:00:00.000Z",
+        "event": "Acquired Twitter"
+      }
+    ]
+  }
+  

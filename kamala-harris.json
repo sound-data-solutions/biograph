@@ -1,0 +1,51 @@
+{
+    "name": "Kamala Harris",
+    "birthday": "1964-10-20T00:00:00.000Z",
+    "death_date": null,
+    "life_phases": [
+      {
+        "start_date": "1964-10-20T00:00:00.000Z",
+        "end_date": "1981-05-01T00:00:00.000Z",
+        "activity": "Childhood and education"
+      },
+      {
+        "start_date": "1981-05-02T00:00:00.000Z",
+        "end_date": "1990-05-01T00:00:00.000Z",
+        "activity": "College and law school"
+      },
+      {
+        "start_date": "1990-05-02T00:00:00.000Z",
+        "end_date": "2017-01-03T00:00:00.000Z",
+        "activity": "Legal and political career in California"
+      },
+      {
+        "start_date": "2017-01-04T00:00:00.000Z",
+        "end_date": "2021-01-20T00:00:00.000Z",
+        "activity": "Senator for California"
+      },
+      {
+        "start_date": "2021-01-21T00:00:00.000Z",
+        "end_date": null,
+        "activity": "Vice Presidency"
+      }
+    ],
+    "milestones": [
+      {
+        "date": "2004-01-01T00:00:00.000Z",
+        "event": "Elected District Attorney of San Francisco"
+      },
+      {
+        "date": "2011-01-03T00:00:00.000Z",
+        "event": "Elected Attorney General of California"
+      },
+      {
+        "date": "2017-01-03T00:00:00.000Z",
+        "event": "Became U.S. Senator for California"
+      },
+      {
+        "date": "2021-01-20T00:00:00.000Z",
+        "event": "Inaugurated as Vice President of the United States"
+      }
+    ]
+  }
+  
